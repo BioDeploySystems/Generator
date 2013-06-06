@@ -1,0 +1,55 @@
+[Français]
+
+
+Charte d'Utilisation :
+
+
+
+BSD 3 : Domaine Public
+
+Avant toute chose, assurez-vous que vous utilisez ces fichiers dans les contraintes indiquées par la Licence Creative Commons des fichiers du package et les Contrats de licence pour utilisateur final fournis.
+Vous n'êtes pas en droit d'utiliser ces fichiers en dehors des clauses d'utilisation.
+
+La société BioDeploy se décharge de toute responsabilité quant à l'usage de ces données, dans tous les cas, vous serez seul responsable de leur utilisation.
+
+Ces fichiers sont diffusés et rendus disponibles dans un but expérimental et informatif, fournis à titre d'exemple de technologie. Ceci ne remplace en rien l'utilisation de génératrices conformes aux normes en vigueur dans votre pays.
+
+
+N'utilisez jamais un réseau d'électricité publique ou privé pour alimenter votre génératrice, préférez une simple batterie indépendante.
+
+Vous êtes responsables de l'utilisation de votre génératrice en toute situation et en tous lieux. N'oubliez pas que l'eau est conducteur d'électricité, ne renversez pas votre génératrice, son fonctionnement n'est possible qu'en profitant des effets de la gravité, et doit donc être posé à l'horizontale, sur une surface stable et dégagée de toute possibilité de destabilisation entrainement un écoulement de l'eau.
+
+Ne laissez personne accèder à votre génératrice lorsqu'il est en mode de fonctionnement. Assurez-vous de stocker votre génératrice à l'abris de personnes à comportement à risque.
+
+Nous vous rappelons à nouveau que ces fichiers ne sont disponibles que dans un but expérimental et informatif. 
+
+La société BioDeploy se décharge de toute responsabilité quant à l'utilisation des informations et fichiers fournis à titre d'exemple et ne peut en aucun cas être poursuivie pour des utilisations frauduleuses de votre part.
+
+Vous ne pouvez utiliser les fichiers et informations fournies sans accepter les règles de la présente charte d'utilisation et les contrats de licence pour utilisateur final fournis.
+
+[English/US]
+
+BSD 3 : Public Domain
+
+agree with EULA
+
+Before anything else, make sure that you use these files within the constraints set by the Creative Commons package files and license agreements provided for end user.
+You are not permitted to use these files outside of the terms of use.
+
+The company BioDeploy disclaims any liability for the use of these data, in all cases, you will be solely responsible for their use.
+
+These files are available in an experimental and informational purposes, provided as an example. This does not replace the use of generators in accordance with regulations in force in your country.
+
+Make sure you never put constraints on the engagement of the security.
+
+Never use fire source in the presence of your generator.
+
+You are responsible for using your generator in all situations and in all places. Remember that water conducts electricity, do not spill your generator are functioning is only possible advantage of the effects of gravity, and therefore should be placed horizontally on a stable surface and clear of any possibility of destabilization drive a flow of water.
+
+Do not let anyone access your generator when in operation. Be sure to store your generator to shelter people in risky behavior.
+
+We remind you again that these files are only available in an experimental and information initiative.
+
+The company BioDeploy disclaims any liability for the use of information and files provided as an example and may not in any case be prosecuted for fraudulent use of your hand.
+
+You cannot use the files and information without accepting rules of this charter of use and license agreements provided for end user.
